@@ -13,8 +13,8 @@ export default function StackNavigator() {
     <Stack.Navigator>
       <Stack.Screen name="Login" component={LoginScreen} />
       <Stack.Screen name="Home" component={HomeScreen} />
-      <Stack.Screen name="Detail" component={ProductDetailScreen} />
-      <Stack.Screen name="Info" component={InfoScreen} />
+      <Stack.Screen name="Detail" component={ProductDetailScreen} options={{ title: 'Detalhes do Produto' }} />
+      <Stack.Screen name="Info" component={InfoScreen} options={{ title: 'Informações do Grupo' }} />
     </Stack.Navigator>
   );
 }
