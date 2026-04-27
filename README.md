@@ -59,10 +59,10 @@ Password: m38rmF$
   RA: 1134790
 
 * Nome: Thaís Lodi Pinheiro
-  RA: 654321
+  RA: 1134874
 
-* Nome: Thiago Correia Medeiros
-  RA: 111111
+* Nome: Thiago Corrêa Medeiros
+  RA: 1134836
 
 ---
 
